@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @desyscott
-- 👀 I’m interested in coding
+- 👀 I’m interested in Coding and Music
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "mrfallback@gmail.com"
