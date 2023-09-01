@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @desyscott
+- 👋 Hi, I’m @desyscott a passionate full-stack developer from Ghana
 - 👀 I’m interested in Coding and Music
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "mrfallback@gmail.com"
