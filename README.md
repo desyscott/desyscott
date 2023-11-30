@@ -7,7 +7,8 @@
 
 - 👀 I’m interested in Coding and Music
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me "mrfallback@gmail.com"
+- 📫 How to reach me **mrfallback055@gmail.com**
+- ⚡ Fun fact **I think I can do anything**
 
 <!---
 desyscott/desyscott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
