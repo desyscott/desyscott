@@ -28,7 +28,7 @@
   
 <h4 align="left">Others:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,bash,figma,netlify,heroku,materialui,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,bash,docker,materialui,figma,netlify,heroku)](https://skillicons.dev)
 
 
 <h3 align="left">⚙Languages and Tools:</h3>
