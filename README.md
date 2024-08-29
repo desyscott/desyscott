@@ -26,11 +26,11 @@
 
 <h4 align="left">Backend stack/tools:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,gcp,firebase)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)](https://skillicons.dev)   
   
 <h4 align="left">Others:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,bash,figma,netlify,ps,ai,ae,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,bash,figma,netlify)](https://skillicons.dev)
 
 
 <h3 align="left">⚙Languages and Tools:</h3>
