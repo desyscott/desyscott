@@ -16,6 +16,11 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=desyscott&show_icons=true&locale=en&layout=compact" alt="desyscott" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desyscott&" alt="desyscott" /></p>
+<br>
+
+# 📊 GitHub Stats:
+[![DesyScott's GitHub stats](https://github-readme-stats.vercel.app/api?username=desyscott&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
 <!---
 desyscott/desyscott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
