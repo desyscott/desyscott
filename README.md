@@ -16,6 +16,22 @@
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,py,typescript)](https://skillicons.dev)
 
+<h4 align="left">Frontend web development:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,gatsby,sass,tailwind,nextjs)](https://skillicons.dev)
+
+<h4 align="left">Mobile app development:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=react,reactnative)](https://skillicons.dev)
+
+<h4 align="left">Backend stack/tools:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,gcp,firebase)](https://skillicons.dev)   
+  
+<h4 align="left">Others:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=git,bash,figma,netlify,ps,ai,ae,blender)](https://skillicons.dev)
+
 
 <h3 align="left">⚙Languages and Tools:</h3>
 <p align="left">
