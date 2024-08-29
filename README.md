@@ -6,7 +6,7 @@
 - 👨‍💻 Open to working/collaborating on anything related to web and mobile development
 <br>
 
-# 💻 Tech Stack:
+# 💻 My Tech Stack:
 <h4 align="left">Programming languages:</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py)](https://skillicons.dev)
