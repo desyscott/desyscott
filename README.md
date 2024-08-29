@@ -1,10 +1,6 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">, I'm Desmond (Desyscott)</h1>
 <h3 align="center">A passionate fullstack software developer from Ghana</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=desyscott&label=Profile%20views&color=0e75b6&style=flat" alt="desyscott" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desyscott" alt="desyscott" /></a> </p>
-
-
 - 👀 I’m interested in Coding and Music
 - 📫 How to reach me **mrfallback055@gmail.com**
 - ⚡ Fun fact **I think I can do anything**
@@ -14,7 +10,7 @@
 # 💻 Tech Stack:
 <h4 align="left">Programming languages:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,py,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py)](https://skillicons.dev)
 
 <h4 align="left">Frontend web development:</h4>
 
@@ -22,7 +18,7 @@
 
 <h4 align="left">Mobile app development:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=react,reactnativejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,reactnative.dev)](https://skillicons.dev)
 
 <h4 align="left">Backend stack/tools:</h4>
 
@@ -30,7 +26,7 @@
   
 <h4 align="left">Others:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,bash,figma,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,bash,figma,netlify,heroku,vercel,ui.shadcn)](https://skillicons.dev)
 
 
 <h3 align="left">⚙Languages and Tools:</h3>
