@@ -13,7 +13,7 @@
 
 <h4 align="left">Frontend web development:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,gatsby,sass,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,sass,tailwind)](https://skillicons.dev)
 
 <h4 align="left">Mobile app development:</h4>
 
