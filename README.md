@@ -14,6 +14,8 @@
 # 💻 Tech Stack:
 <h4 align="left">Programming languages:</h4>
 
+[![My Skills](https://skillicons.dev/icons?i=javascript,py,typescript)](https://skillicons.dev)
+
 
 <h3 align="left">⚙Languages and Tools:</h3>
 <p align="left">
@@ -21,6 +23,7 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=desyscott&show_icons=true&locale=en&layout=compact" alt="desyscott" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desyscott&" alt="desyscott" /></p>
+
 <br>
 
 # 📊 GitHub Stats:
