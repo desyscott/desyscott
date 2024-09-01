@@ -6,7 +6,7 @@
 - 👨‍💻 Open to working/collaborating on anything related to web and mobile development
 <br>
 
-# 💻 My Tech Stack:
+# 💻 ⚙ My Tech Stack:
 <h3 align="left">⚙ My Tech Stack:</h3>
 <h4 align="left">Programming languages:</h4>
 
