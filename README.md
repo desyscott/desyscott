@@ -7,6 +7,7 @@
 <br>
 
 # 💻 My Tech Stack:
+<h3 align="left">⚙ My Tech Stack:</h3>
 <h4 align="left">Programming languages:</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py)](https://skillicons.dev)
