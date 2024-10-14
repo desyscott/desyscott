@@ -26,7 +26,7 @@
   
 <h4 align="left">Others:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,bash,docker,materialui,redux,vite,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gitbash,notion,docker,materialui,redux,vite,postman)](https://skillicons.dev)
 
 <br>
 
