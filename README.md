@@ -2,7 +2,6 @@
 <h3 align="center">A passionate fullstack software developer from Ghana</h3>
 
 - 📫 How to reach me **mrfallback055@gmail.com**
-- ⚡ Fun fact **I think I can do anything**
 - 👨‍💻 Open to working/collaborating on anything related to web and mobile development
 <br>
 
